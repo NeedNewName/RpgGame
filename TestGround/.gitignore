@@ -32,6 +32,8 @@
 *.xcodeproj
 *.sln
 *.suo
+*VC.db
+*.VC.opendb
 *.opensdf
 *.sdf
 
