@@ -1,2 +1,2 @@
-# RpgGame
-Rpg hunting game story by or
+# Rpg Game
+Rpg hunting game.
